@@ -7,6 +7,7 @@
 
 
 ![gif1](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot1.gif)
+
 ![gif2](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot2.gif)
 
 ### 使用<br>
