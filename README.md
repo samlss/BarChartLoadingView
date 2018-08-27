@@ -9,6 +9,7 @@ A bar chart loading view that you can specify the number of bars.
 
 
 ![gif1](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot1.gif)
+
 ![gif2](https://github.com/samlss/BarChartLoadingView/blob/master/screenshots/screenshot2.gif)
 
 ### Use<br>
