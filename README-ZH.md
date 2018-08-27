@@ -1,5 +1,5 @@
 # BarChartLoadingView
-一个你可以指定条形数量的条形图loading view
+一个可以指定条形数量的条形图loading view
 
  <br/>
 
